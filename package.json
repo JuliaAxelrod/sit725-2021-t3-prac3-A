@@ -1,0 +1,29 @@
+{
+  "name": "sit725-2021-t3-prac3-a",
+  "version": "1.0.0",
+  "description": "express basic app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start2": "nodemon testinserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaAxelrod/sit725-2021-t3-prac3-A.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Julia Axelrod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuliaAxelrod/sit725-2021-t3-prac3-A/issues"
+  },
+  "homepage": "https://github.com/JuliaAxelrod/sit725-2021-t3-prac3-A#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
